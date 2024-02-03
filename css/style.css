@@ -1,0 +1,25 @@
+.header
+{
+    background-color:darkgrey;
+    color:white;
+    text-align:center;
+    min-height: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.navbardemo
+{
+    background-color: rgb(72, 70, 70);
+    color: white;
+}
+.textfile
+{
+    text-align: justify;
+}
+.footer
+{
+    background-color: rgb(243, 238, 238);
+    color: black;
+    min-height: 20px;
+    padding-top: 7px;
+}
